@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/Lato-Regular.ttf</file>
+        <file>Main.qml</file>
+        <file>style.qml</file>
+        <file>fonts/CodecPro-Italic.ttf</file>
+        <file>fonts/CodecPro-Regular.ttf</file>
+        <file>fonts/fontawesome.otf</file>
+        <file>fonts/Lato-Bold.ttf</file>
+        <file>assets/Cover.png</file>
+        <file>MainArea.qml</file>
+        <file>components/PrefsLabel.qml</file>
+        <file>components/PrefsSwitch.qml</file>
+        <file>components/OutlinedLabel.qml</file>
+        <file>components/IconLabel.qml</file>
+    </qresource>
+</RCC>
